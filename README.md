@@ -1,4 +1,4 @@
-# Clonación de la iknterfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
+# Clonación de la innterfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
 
 
 ## **ÍNDICE**
@@ -25,4 +25,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquitas estándar de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://moonlit-cocada-ff3dd9.netlify.app/)
